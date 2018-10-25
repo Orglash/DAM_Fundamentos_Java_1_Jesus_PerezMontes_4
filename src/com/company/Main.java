@@ -11,9 +11,9 @@ public class Main {
         double numero=sc.nextDouble();
        //If para comprobar si el número es mayor o menor que 0
         if (numero>=0){
-            System.out.printf("El número es positivo.");
+            System.out.println("El número es positivo.");
         }else{
-            System.out.printf("El número es negativo.");
+            System.out.println("El número es negativo.");
         }
     }
 }
