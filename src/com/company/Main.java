@@ -15,5 +15,7 @@ public class Main {
         }else{
             System.out.println("El número es negativo.");
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
